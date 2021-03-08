@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("hello git");
         System.out.println("master...");
         System.out.println("主干添加...");
+        System.out.println("分支添加");
     }
 }
